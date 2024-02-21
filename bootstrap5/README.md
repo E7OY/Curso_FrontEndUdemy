@@ -1,7 +1,7 @@
 # INSTALACION
 1.  Descargar ultima version desde la web oficial: https://getbootstrap.com/docs/5.3/getting-started/download/
 2.  Descomprimir archivos
-3.  Referenciar los archivos descargados en el <head> de nuestro archivo html
+3.  Referenciar los archivos descargados entre la etiqueta head de nuestro archivo html
 
 --o--
 
